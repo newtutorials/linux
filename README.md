@@ -1,4 +1,4 @@
-# Linux Turtorials Files
+# Linux Tutorials Files
 
 [New Linux tutorial](http://newtutorials.org/linux)
 
